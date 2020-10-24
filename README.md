@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm slowly moving all my code from here to https://sr.ht/~cyplo/. I will still publish to GitHub, but treating it only as a mirror/PR tool.
+
 <!--
 **cyplo/cyplo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
